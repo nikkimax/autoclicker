@@ -6,7 +6,7 @@ Download the code
 
 open commandline or any terminal 
 > pip install pynput 
-###or
+### or
 >pip3 install pynput
 
 run the code 
